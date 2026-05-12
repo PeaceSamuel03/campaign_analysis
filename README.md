@@ -14,7 +14,7 @@ The dashboard helps stakeholders:
 ---
 
 ## Dashboard Preview
-[]
+<img src="data_visualisation.png" alt="Local Image" width="500">
 
 ## Key Features
 ### KPI Monitoring
